@@ -1,3 +1,3 @@
 # codehouse
-# Proyecto: Spotify, información sobre la industria de la música
+# Proyecto: Data Sciences
 # Alumno: Leandro Vildoza
